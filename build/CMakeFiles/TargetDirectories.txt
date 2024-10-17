@@ -1,0 +1,4 @@
+/mnt/build/CMakeFiles/rebuild_cache.dir
+/mnt/build/CMakeFiles/edit_cache.dir
+/mnt/build/CMakeFiles/run_spherical_sfm_realtime.dir
+/mnt/build/CMakeFiles/sphericalsfm.dir

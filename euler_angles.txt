@@ -1,0 +1,32 @@
+Euler angles calculated in ZYX (Yaw, Pitch, Roll) order.
+
+Frame 0 Euler Angles:  0 -0  0
+Frame 1 Euler Angles:  0.00376341  -0.0249222 0.000503377
+Frame 2 Euler Angles:  0.0302912  -0.129412 0.00191512
+Frame 3 Euler Angles:  0.0380026  -0.162484 0.00100209
+Frame 4 Euler Angles:   0.0432415   -0.181392 0.000386493
+Frame 5 Euler Angles:      0.0547   -0.216139 -0.00113317
+Frame 6 Euler Angles:   0.0597661   -0.236502 -0.00228329
+Frame 7 Euler Angles:  0.0680266  -0.283309 -0.0053714
+Frame 8 Euler Angles:   0.0721951   -0.307292 -0.00719086
+Frame 9 Euler Angles:   0.0792238   -0.340621 -0.00995637
+Frame 10 Euler Angles:  0.0826982  -0.366599 -0.0120986
+Frame 11 Euler Angles:  0.0876836  -0.387906 -0.0142765
+Frame 12 Euler Angles:  0.0814307   -0.35421 -0.0111353
+Frame 13 Euler Angles:   0.0748418   -0.322146 -0.00854505
+Frame 14 Euler Angles:   0.0691166    -0.29445 -0.00653793
+Frame 15 Euler Angles:   0.063795  -0.267139 -0.0048691
+Frame 16 Euler Angles:   0.0571577   -0.245814 -0.00371239
+Frame 17 Euler Angles:   0.0519358   -0.225701 -0.00271209
+Frame 18 Euler Angles:   0.0457277   -0.197722 -0.00147349
+Frame 19 Euler Angles:  0 -0  0
+Frame 20 Euler Angles:  0 -0  0
+Frame 21 Euler Angles:  0 -0  0
+Frame 22 Euler Angles:  0 -0  0
+Frame 23 Euler Angles:  0 -0  0
+Frame 24 Euler Angles:  0 -0  0
+Frame 25 Euler Angles:  0 -0  0
+Frame 26 Euler Angles:  0 -0  0
+Frame 27 Euler Angles:  0 -0  0
+Frame 28 Euler Angles:  0 -0  0
+Frame 29 Euler Angles:  0 -0  0

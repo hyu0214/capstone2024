@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsphericalsfm.a  CMakeFiles/sphericalsfm.dir/src/so3.cpp.o CMakeFiles/sphericalsfm.dir/src/sfm.cpp.o CMakeFiles/sphericalsfm.dir/src/sfm_types.cpp.o CMakeFiles/sphericalsfm.dir/src/spherical_estimator.cpp.o CMakeFiles/sphericalsfm.dir/src/triangulation_estimator.cpp.o CMakeFiles/sphericalsfm.dir/src/spherical_fast_estimator.cpp.o CMakeFiles/sphericalsfm.dir/src/plane_estimator.cpp.o CMakeFiles/sphericalsfm.dir/src/spherical_utils.cpp.o CMakeFiles/sphericalsfm.dir/src/rotation_averaging.cpp.o
+/usr/bin/ranlib libsphericalsfm.a
